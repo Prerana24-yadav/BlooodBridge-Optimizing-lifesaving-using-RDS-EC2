@@ -43,11 +43,17 @@ Benefits:
 •	Seamless coordination between stakeholders 
 
 input :
+
+
 <img width="759" height="355" alt="image" src="https://github.com/user-attachments/assets/2c629adf-624e-44ce-b8c5-ff0ed75c48db" />
 
 
 
+
+
+
 <img width="755" height="350" alt="image" src="https://github.com/user-attachments/assets/95f3b958-0543-47de-91ab-47c0f2b5cdaa" />
+
 
 
 vidio link :
